@@ -4,8 +4,7 @@ Sean todos ustedes bienvenidos a mi Portafolio como desarrolladora, en donde con
 El objetivo de este proyecto es mostrar mis conocimientos empleando React + Redux con TypeScript, específicamente en el contexto de React.js y sus herramientas relacionadas.
    ### Demostración Gráfica:
 
-  https://www.figma.com/design/TfchFBIw7hNV12DHq9Rp5H/Untitled?node-id=2-5&m=dev
-
+ ![image](https://github.com/user-attachments/assets/7992fdf8-0d43-4648-9e0f-0008cce35c42)
 
    
    ### Conceptos aplicados:
