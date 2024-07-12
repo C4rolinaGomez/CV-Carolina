@@ -1,5 +1,5 @@
 # Bienvenida Portafolio
-Sean todos ustedes bienvenidos a mi Portafolio como desarrolladora, en donde con el paso de mi formación académica iré compartiendo proyectos con el fin de demostrar mis habilidades adquiridas en el ámbito del desarrollo.
+Sean todos ustedes bienvenidos a mi Portafolio como desarrolladora, en donde con el paso de mi formación académica iré compartiendo proyectos con el fin de demostrar las habilidades adquiridas en el ámbito del desarrollo.
 ## Proyeto Ecommerce-Mariobross
 El objetivo de este proyecto es mostrar mis conocimientos empleando React + Redux con TypeScript, específicamente en el contexto de React.js y sus herramientas relacionadas.
    ### Demostración Gráfica:
@@ -13,9 +13,6 @@ El objetivo de este proyecto es mostrar mis conocimientos empleando React + Redu
    *  Redux
    *  Dispatching Actions
    *  Integración de otras librerías
-   *  Sonner
-   *  React Credit Cards 2
-   *  React Query
    *  React Query Devtools
    *  React Query Pagination
    *  React Query Mutations
@@ -32,7 +29,7 @@ El objetivo de este proyecto es mostrar mis conocimientos empleando React + Redu
       npm install
 
       # Correr el server de los productos
-      npm run server
+      json-server --watch db.json
 
       # Corrrer la aplicación
       npm run dev
