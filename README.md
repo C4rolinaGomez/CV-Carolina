@@ -3,6 +3,11 @@ Sean todos ustedes bienvenidos a mi Portafolio como desarrolladora, en donde con
 ## Proyeto Ecommerce-Mariobross
 El objetivo de este proyecto es mostrar mis conocimientos empleando React + Redux con TypeScript, específicamente en el contexto de React.js y sus herramientas relacionadas.
    ### Demostración Gráfica:
+
+  https://www.figma.com/design/TfchFBIw7hNV12DHq9Rp5H/Untitled?node-id=2-5&m=dev
+
+
+   
    ### Conceptos aplicados:
    * React Router
    * JSON Server
