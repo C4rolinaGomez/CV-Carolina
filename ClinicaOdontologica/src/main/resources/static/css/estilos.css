@@ -1,0 +1,24 @@
+header{
+    background-color: #97D8DE;
+}
+footer{
+    background-color: #97D8DE;
+}
+.fondo-opaco {
+    background-color: gray;
+    opacity: 0.5;
+  }
+  
+.img-logo{
+    width: 50px;
+}
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
+.img-fer{
+    width: 200px;
+}
+.section-fer{
+    text-align: justify;
+}
